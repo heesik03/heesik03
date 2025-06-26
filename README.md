@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20World!&fontAlign=70&fontAlignY=40&color=gradient" alt="Waving" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20World!&fontAlign=70&fontAlignY=40&color=gradient" alt="Waving" width="100%" />
 
 <div align="center">
   <h3>초보 개발자 heesik03입니다~ 👋</h3>
