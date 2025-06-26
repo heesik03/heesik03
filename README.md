@@ -3,7 +3,7 @@
 <div align="center">
   <h3>초보 개발자 heesik03입니다~ 👋</h3>
   <p> ✅ Full Stack를 지향합니다. </p>
-  <p> ✅ 항상 성장하는 싶습니다!  </p>
+  <p> ✅ 항상 성장하는 개발자가 되고 싶습니다!  </p>
   <br>
 </div>
 
