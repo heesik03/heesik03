@@ -29,21 +29,3 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
-
-
-<br>
-
----
-
-### <h3 align="center">  📊 GitHub Stats </h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heesik03&show_icons=true&theme=dracula" alt="github-stats" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesik03&layout=compact&theme=dracula" alt="top-langs" height="180" />
-</p>
-
-
-
