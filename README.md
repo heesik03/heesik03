@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
-<h4 align="center"> 📜 Certifications </h3>
+<h4 align="center">📜 Certifications</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/SQLD-0073BB?style=for-the-badge&logo=databricks&logoColor=white">
 </p>
