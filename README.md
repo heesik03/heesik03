@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20World!&fontAlign=70&fontAlignY=40&color=gradient" alt="Waving" width="100%" />
 
 <div>
-  <h3>초보 개발자 HeeSik입니다~ 👋</h3>
-  <p> ✅ Full Stack를 지향합니다. </p>
+  <h3>초보 개발자 HeeSik입니다~👋</h3>
+  <p> ✅ Full Stack 웹 개발을 지향합니다. </p>
   <p> ✅ 항상 성장하는 개발자가 되고 싶습니다!  </p>
 </div>
 
@@ -12,7 +12,7 @@
 
 | 기간 | 내용 |
 | :--- | :--- |
-| 2023.03 ~ | 동양미래대학교 컴퓨터소프트웨어과 재학 |
+| 2023.03 ~ | 동양미래대학교 컴퓨터소프트웨어공학과 |
 
 ---
 
