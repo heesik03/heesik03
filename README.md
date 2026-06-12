@@ -10,10 +10,20 @@
 
 ### 🎓 Education
 
-| 기간 | 내용 |
-| :--- | :--- |
-| 2019.03 ~ 2022.02 | 광운전자공업고등학교 모바일소프트웨어과 |
-| 2022.03 ~ | 동양미래대학교 컴퓨터소프트웨어공학과 |
+<table>
+  <tr>
+    <th align="center">기간</th>
+    <th align="center">내용</th>
+  </tr>
+  <tr>
+    <td align="center">2019.03 ~ 2022.02</td>
+    <td align="center">광운전자공업고등학교 모바일소프트웨어과</td>
+  </tr>
+  <tr>
+    <td align="center">2022.03 ~ </td>
+    <td align="center">동양미래대학교 컴퓨터소프트웨어공학과</td>
+  </tr>
+</table>
 
 ---
 
